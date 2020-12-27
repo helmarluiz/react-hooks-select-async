@@ -10,6 +10,12 @@
 
 # production
 /build
+package-lock.json
+#vs-code-history
+.history
+
+#eslint
+.eslintcache
 
 # misc
 .DS_Store
