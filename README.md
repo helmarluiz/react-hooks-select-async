@@ -1,4 +1,4 @@
-An example implementation of `React-Select` Async, using React Hooks and applying pagination with `react-select-async-paginate`. Implementation described on [Using react-select Async with React Hooks and Pagination](https://dev.to/helmarjunior/using-react-select-async-with-react-hooks-and-pagination-22g2).
+An example implementation of `React-Select` Async, using React Hooks and applying pagination with `react-select-async-paginate`. Implementation described on [Implementing react-select Async with React Hooks and applying Pagination](https://dev.to/helmarjunior/using-react-select-async-with-react-hooks-and-pagination-22g2).
 
 It's also hosted at [https://codesandbox.io/s/react-select-async-paginate-yblq9?file=/src/SelectAsyncPaginate.js](https://codesandbox.io/s/react-select-async-paginate-yblq9?file=/src/SelectAsyncPaginate.js).
 
